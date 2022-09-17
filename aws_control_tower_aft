@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T04:18:38.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="e-VAKbR00oiGG58Xlflo" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T04:22:13.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="y2266olnkLn7FMd7HzHW" version="20.2.2" type="github">
   <diagram id="IiTAMIsWoCF48vIi2C6Y" name="Page-1">
     <mxGraphModel dx="1145" dy="1448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="b5kSOjGJp21DcLlmP3Ib-26" value="AWS CodeBuild" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="b5kSOjGJp21DcLlmP3Ib-4">
           <mxGeometry x="45.670000000000016" y="270" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b5kSOjGJp21DcLlmP3Ib-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider/featured.png;clipPath=inset(11.33% 63.67% 12% 1.67%);" vertex="1" parent="b5kSOjGJp21DcLlmP3Ib-4">
+        <mxCell id="b5kSOjGJp21DcLlmP3Ib-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider/featured.png;clipPath=inset(11.33% 63.67% 12% 1.67%);fontColor=#4D4D4D;" vertex="1" parent="b5kSOjGJp21DcLlmP3Ib-4">
           <mxGeometry x="120" y="210" width="45.22" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b5kSOjGJp21DcLlmP3Ib-32" value="AWS DynamoDB" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="b5kSOjGJp21DcLlmP3Ib-4">
@@ -58,8 +58,11 @@
         <mxCell id="b5kSOjGJp21DcLlmP3Ib-37" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account2;strokeWidth=1;" vertex="1" parent="b5kSOjGJp21DcLlmP3Ib-4">
           <mxGeometry x="245" y="400" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="b5kSOjGJp21DcLlmP3Ib-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;fontColor=#4D4D4D;" edge="1" parent="b5kSOjGJp21DcLlmP3Ib-4" source="b5kSOjGJp21DcLlmP3Ib-46" target="b5kSOjGJp21DcLlmP3Ib-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b5kSOjGJp21DcLlmP3Ib-46" value="" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#B0084D;fillColor=none;verticalAlign=top;align=center;fontColor=#FF9900;dashed=1;spacingTop=3;" vertex="1" parent="b5kSOjGJp21DcLlmP3Ib-4">
-          <mxGeometry x="460" y="120" width="380" height="280" as="geometry" />
+          <mxGeometry x="460" y="120" width="380" height="270" as="geometry" />
         </mxCell>
         <mxCell id="b5kSOjGJp21DcLlmP3Ib-38" value="Vended account" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="b5kSOjGJp21DcLlmP3Ib-4">
           <mxGeometry x="265" y="400.00000000000006" width="90" height="20" as="geometry" />
