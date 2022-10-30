@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T05:37:18.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.4.0" etag="BiZ14gLPWFK_4pXk2hGM" type="github"><diagram id="RnD8lP5Cj_AlWjKk3CRe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-30T05:43:43.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Zhw_KZZ74FtES2LFsoJB" version="20.4.0" type="github">
+  <diagram id="RnD8lP5Cj_AlWjKk3CRe" name="Page-1">
+    <mxGraphModel dx="1247" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rHDEy_QoKSnykLsoyfOw-1" value="XYZ AWS Accounts&lt;br&gt;Environment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rHDEy_QoKSnykLsoyfOw-2" value="XYZ AWS Accounts&lt;br&gt;Environment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rHDEy_QoKSnykLsoyfOw-4" value="XYZ AWS Accounts&lt;br&gt;Environment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rHDEy_QoKSnykLsoyfOw-5" value="XYZ AWS Accounts&lt;br&gt;Environment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="280" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rHDEy_QoKSnykLsoyfOw-6" value="XYZ AWS Accounts&lt;br&gt;Environment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="640" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rHDEy_QoKSnykLsoyfOw-8" value="XYZ AWS Accounts&lt;br&gt;Environment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rHDEy_QoKSnykLsoyfOw-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.itprc.com/wp-content/uploads/2022/06/Zscaler-Cloud-Protection-Review-and-%CE%91lternatives.jpeg;clipPath=inset(7.33% 48% 9.33% 3.33%);" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="140.17" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rHDEy_QoKSnykLsoyfOw-10" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="160" height="100.8" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
