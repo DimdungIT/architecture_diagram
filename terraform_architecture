@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T22:23:59.207Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IyL6NJZYE4ljAwhgos6d" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T22:32:05.006Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VKGnNgMUXCy6nKKq0S_B" version="20.5.3" type="github">
   <diagram id="OuRpVC-dTleqbkRRWSPB" name="Page-1">
-    <mxGraphModel dx="1216" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,11 +72,29 @@
             <mxPoint x="540" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9g3AjpzXNF90dJOXjAt-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;terraform_config.tf&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="55" y="210" width="110" height="40" as="geometry" />
+        <mxCell id="Q9g3AjpzXNF90dJOXjAt-30" value="Infrastructure Provisioning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="550" y="70" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q9g3AjpzXNF90dJOXjAt-28" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;terraform_config.tf&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="130" y="256" width="110" height="40" as="geometry" />
+        <mxCell id="Q9g3AjpzXNF90dJOXjAt-31" value="Team working&lt;br&gt;with Terraform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="88" y="570" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9g3AjpzXNF90dJOXjAt-32" value="terraform.tfvars" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9g3AjpzXNF90dJOXjAt-33" value="terraform_config.tf" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9g3AjpzXNF90dJOXjAt-34" value="Terraform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9g3AjpzXNF90dJOXjAt-35" value="terraform.tfstate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9g3AjpzXNF90dJOXjAt-36" value="Terraform Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9g3AjpzXNF90dJOXjAt-37" value="Cloud Provider" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
