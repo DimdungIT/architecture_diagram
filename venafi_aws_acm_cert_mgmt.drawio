@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T06:32:15.781Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="0vPQu0I3zIy_9dRo9MVW" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T15:13:29.207Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9R89DU4LVXJ-J-ICpSYU" version="20.7.4" type="github">
   <diagram id="t5ng1zeFRUNJtSybgEXc" name="Page-1">
     <mxGraphModel dx="1434" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -42,9 +42,9 @@
         <mxCell id="Moh6Mw95iDRhxWac097l-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="Moh6Mw95iDRhxWac097l-10" target="OUz0pmae6rex_LKDjg-_-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Moh6Mw95iDRhxWac097l-16" value="Postman API to Vena" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Moh6Mw95iDRhxWac097l-12">
+        <mxCell id="Moh6Mw95iDRhxWac097l-16" value="Venafi REST API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Moh6Mw95iDRhxWac097l-12">
           <mxGeometry x="-0.6647" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Moh6Mw95iDRhxWac097l-10" value="" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
