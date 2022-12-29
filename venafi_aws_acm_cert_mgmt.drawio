@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T16:02:45.816Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ws3BrpPXYYLXAEHNPe-r" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T16:09:46.468Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Zkz39y0ys6xDiEvjaVhT" version="20.7.4" type="github">
   <diagram id="t5ng1zeFRUNJtSybgEXc" name="Page-1">
     <mxGraphModel dx="1434" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -91,6 +91,15 @@
         </mxCell>
         <mxCell id="n85-47FMdQ1bUjtsNz0O-14" value="Note:&amp;nbsp; This should be imported into every accounts since we can not&amp;nbsp; shared public or imported certificate using RAM, only private CA are possible to share .." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="735" width="750" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n85-47FMdQ1bUjtsNz0O-15" value="&lt;b&gt;Manual Steps to import the certificate into ACM managed by Venafi&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="60" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n85-47FMdQ1bUjtsNz0O-16" value="aws access/secretkey" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444.39" y="241" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n85-47FMdQ1bUjtsNz0O-17" value="ADO pipeline" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="160" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
