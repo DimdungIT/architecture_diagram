@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T15:58:41.502Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vwpG1K-5YxQSESW2ila4" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T16:01:35.786Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mSp7dwydvbYxWmxPpcFm" version="20.7.4" type="github">
   <diagram id="t5ng1zeFRUNJtSybgEXc" name="Page-1">
     <mxGraphModel dx="1434" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -89,8 +89,8 @@
         <mxCell id="n85-47FMdQ1bUjtsNz0O-12" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="1">
           <mxGeometry x="141.5" y="620" width="38.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n85-47FMdQ1bUjtsNz0O-14" value="Note:&amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="720" width="60" height="30" as="geometry" />
+        <mxCell id="n85-47FMdQ1bUjtsNz0O-14" value="Note:&amp;nbsp; This should be imported into every accounts since we can not&amp;nbsp; shared public or imported certificate using RAM, only private CA are possible to share .." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="735" width="750" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
