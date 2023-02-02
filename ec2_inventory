@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T03:17:17.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="a75I-tOhEP07MXsT52zc" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T05:12:34.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ztLwGCTxwcWHgVp-EJYb" version="20.8.10" type="github" pages="2">
   <diagram name="Page-1" id="5hZN22M3gCM3TrjDC62W">
-    <mxGraphModel dx="1194" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,6 +56,14 @@
         <mxCell id="YZ3kVr9O88Ie_pd4Yh99-16" value="1. Lambda Function&amp;nbsp; to pull all the ec2 instance from multi-account&lt;br&gt;2. Record the all the ec2 instances (host name and IP address ) in Dynamo DB&lt;br&gt;3. lambda function to put the tripwire inventory to dynamo DB&lt;br&gt;4. Lambda function to compare the both aws_table and tripwire table&amp;nbsp;&lt;br&gt;5. Generate the CSV file missing from Tripwire&amp;nbsp;&lt;br&gt;6. Generate the CSV file&amp;nbsp; extra from Tripwire&amp;nbsp;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="130" width="460" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6M-Pg-ynhv8Ajgl_riSd" name="Page-2">
+    <mxGraphModel dx="1674" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
