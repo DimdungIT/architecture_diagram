@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T16:06:44.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="peautqmZ80AL3Xyyivk0" version="20.8.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-02T16:12:31.455Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="auDokJT6SoPFoSKUEd0t" version="20.8.10" type="github" pages="2">
   <diagram name="Page-1" id="5hZN22M3gCM3TrjDC62W">
     <mxGraphModel dx="1395" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o3P2ShOhT5t5NbWAeXgv-18" value="Tripwire&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o3P2ShOhT5t5NbWAeXgv-18" value="csv-inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o3P2ShOhT5t5NbWAeXgv-21" value="DynamoDB:&amp;nbsp;&lt;br&gt;tripwire_inventory" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
