@@ -372,6 +372,80 @@
         <mxCell id="JELt77jc5RifripwSOnE-14" value="Frame&lt;div&gt;Footer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="600" y="390" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-15" value="&lt;b&gt;Application&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="160" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-16" value="&lt;b&gt;Transport&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="235" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-17" value="&lt;b&gt;Internet&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="310" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-18" value="&lt;b&gt;Link&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="385" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-19" value="&lt;b&gt;VXLAN&lt;/b&gt;&lt;div&gt;A protocol used to create an overlay network&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-20" value="IP&amp;nbsp;&lt;div&gt;Header&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-21" value="Segment&amp;nbsp;&lt;div&gt;Header&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-22" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="800" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-23" value="Frame&lt;div&gt;Header&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-24" value="Frame&lt;div&gt;Footer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="880" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-25" value="MAC SA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="220" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-26" value="802.1Q tag" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="300" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-27" value="IP DA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-28" value="MAC DA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-29" value="IP&lt;div&gt;SA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="460" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-30" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.vxlan;" vertex="1" parent="1">
+          <mxGeometry x="20" y="470" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-31" value="" style="container=1;collapsible=0;expand=0;recursiveResize=0;html=1;whiteSpace=wrap;strokeColor=#1192E8;fillColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-32" value="Overlay Network" style="shape=rect;fillColor=none;aspect=fixed;resizable=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=none;part=1;spacingLeft=5;fontSize=14;" vertex="1" parent="JELt77jc5RifripwSOnE-31">
+          <mxGeometry width="48" height="48" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-33" value="" style="fillColor=#1192E8;shape=mxgraph.ibm_cloud.network--overlay;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;" vertex="1" parent="JELt77jc5RifripwSOnE-32">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-34" value="" style="shape=rect;fillColor=#1192E8;aspect=fixed;resizable=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=none;part=1;spacingLeft=5;fontSize=14;" vertex="1" parent="JELt77jc5RifripwSOnE-31">
+          <mxGeometry width="4" height="48" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-35" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.segments_overlap" vertex="1" parent="1">
+          <mxGeometry x="20" y="680" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-36" value="&lt;b&gt;Overlay&lt;/b&gt;&lt;div&gt;An overlay network is a virtual, logical network built on top of an existing nertwork&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="690" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-37" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mesh;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="78" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="JELt77jc5RifripwSOnE-38" value="&lt;div&gt;&lt;b&gt;Service Mesh&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Responsible for discovering and connecting services&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="670" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
